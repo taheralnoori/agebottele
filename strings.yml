@@ -1,0 +1,156 @@
+en:
+  day: Day
+  month: Month
+  year: Year
+  days: days
+  months: months
+  years: years
+  hours: hours
+  minutes: minutes
+  seconds: seconds
+  early: Earlier
+  late: Later
+  weekdays: Weekdays
+  birthday: Birthday
+  todays_date: Today's date
+  today: Today
+  other_date: Other date
+  calc: Calculate
+  upcoming: Next birthday
+  age: Age
+  total: Total
+  events: Special
+  next: Next
+  new: New
+  rate: Rate
+  contribute: Contrib
+  correct_bday: Correct birthday
+  correct_today: Correct today's date
+  instruction: Please enter
+  t_day: the day
+  t_month: the month
+  t_year: the year
+  t_todays_date: of today's date
+  t_birthday: of your birthday
+  b_hour: the hour of your birth
+  b_min: the minute of your birth
+  greeting: Hello
+  question: Your language is English, right?
+  ok: Okay, your language is English! Now calculate your age
+  this_lang: English
+  ja: Right
+  nein: Nope
+  add_time: Add birth time
+  correct_time: Correct birth time
+  action: Please correct your inputs or calculate now
+  error: Error, invalid date
+  try_again: Please correct your data
+  events_error: The calculation of special anniversaries is only possible with a birth day, which is over a month in the past.
+  month_list: Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec
+  days_list: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+  seperator: comma
+  flag: \U0001f1ec\U0001f1e7
+de:
+  day: Tag
+  month: Monat
+  year: Jahr
+  t_day: den Tag
+  t_month: den Monat
+  t_year: das Jahr
+  days: Tage
+  months: Monate
+  years: Jahre
+  hours: Stunden
+  minutes: Minuten
+  seconds: Sekunden
+  early: Früher
+  late: Später
+  birthday: Geburtstag
+  t_birthday: deines Geburtstags ein
+  todays_date: Heutiges Datum
+  t_todays_date: des heutigen Datums ein
+  today: Heute
+  other_date: Anderes Datum
+  age: Alter
+  total: Absolut
+  upcoming: Nächster Geburtstag
+  calc: Berechnen
+  correct_bday: Korrigiere Geburtstag
+  correct_today: Korrigiere heutiges Datum
+  instruction: Bitte gebe
+  next: Nächste
+  error: Achtung, ungültiges Datum
+  try_again: Korrigiere deine Eingaben
+  month_list: Jan, Feb, Mrz, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Dez
+  days_list: Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag
+  weekdays: Wochentage
+  greeting: Hallo
+  question: Deine Sprache ist Deutsch, richtig?
+  this_lang: Deutsch
+  ja: Richitg
+  nein: Nein
+  ok: Okay, deine Sprache ist Deutsch! Berechne jetzt dein Alter
+  new: Neu
+  rate: Bewerten
+  contribute: GitHub
+  add_time: Geburtszeit hinzufügen
+  correct_time: Geburtszeit korrigieren
+  action: Bitte korrigiere deine Eingaben oder berechne jetzt
+  b_hour: die Stunde deiner Geburt ein
+  b_min: die Minute deiner Geburt ein
+  events: Besondere
+  seperator: dot
+  events_error: Die Berechnung von speziellen Jubiläen ist nur mit einem Geburstag möglich, der über einen Monat in der Vergangenheit liegt.
+  flag: \U0001f1e9\U0001f1ea
+az:
+  day: Gün
+  month: Ay
+  year: İl
+  t_day: gününü
+  t_month: ayını
+  t_year: ilini
+  days: gün
+  months: ay
+  years: il
+  hours: saat
+  minutes: dəqiqə
+  seconds: saniyə
+  early: Daha tez
+  late: Daha sonra
+  birthday: Doğum günü
+  t_birthday: doğum gününün
+  todays_date: Bu günkü tarix
+  t_todays_date: bu günkü tarixin
+  today: Bu gün
+  other_date: Başqa tarix
+  age: Yaş
+  total: Toplam
+  upcoming: Gələn doğum günü
+  calc: Hesabla
+  correct_bday: Doğum gününə düzəliş et.
+  correct_today: Bu günkü tarixə düzəliş et.
+  action_start: Xahiş edirik, yaz
+  next: Sonrakı
+  error: Yalnışlıq! Uyğunsuz tarix.
+  try_again: Verilənlərinə düzəliş et də.
+  month_list: Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec
+  days_list: Birinci gün, İkinci gün, Üçüncü gün, Dördüncü gün, Beşinci gün, Altıncı gün, Yeddinci gün
+  weekdays: Həftənin günləri
+  greeting: Salam
+  question: Your language is English, right?
+  this_lang: Azərbaycan dili
+  ja: Düzdür.
+  nein: Yox
+  ok: Yaxşı, Yaxşı, sənin dilin Azərbaycan dilidir. İndi isə yaşını hesabla.
+  new: Yeni
+  rate: Ulduz ver.
+  contribute: Qatqı
+  add_time: Doğum tarixi artır.
+  correct_time: Doğum tarixinə düzəliş et.
+  action: Verdiklərinə düzəliş et, ya da elə indi hesabla.
+  b_hour: Doğumunun saatı
+  b_min: Doğumunun dəqiqəsi
+  events: özəl
+  seperator: comma
+  events_error: Özəl anların hesablanması ancaq bir ayı dolmuş doğum dünü üçün ola bilər.
+  flag: \U0001f1e6\U0001f1ff
